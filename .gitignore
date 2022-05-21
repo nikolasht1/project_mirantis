@@ -1,2 +1,5 @@
 .idea
 venv
+.vagrant
+/.vagrant
+/c/project_mirantis/.vagrant
